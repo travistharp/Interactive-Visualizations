@@ -93,7 +93,7 @@ function buildPlot(id) {
 
 
 
-      // Washing frequency
+      // bonus washing frequency-- smdh-- not working
 
       var data2 = [
         {
